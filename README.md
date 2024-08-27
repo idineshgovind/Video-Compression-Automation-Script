@@ -12,7 +12,6 @@ This script automates the process of compressing video files into three differen
 ## Requirements
 
 - **`ffmpeg`**: Ensure `ffmpeg` is installed on your system. You can install it via the [FFmpeg official website](https://ffmpeg.org/download.html) or package managers like `apt`, `brew`, etc.
-- **`numfmt`**: Typically available in GNU core utilities for converting file sizes to human-readable format.
 
 ## Usage
 
