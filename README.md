@@ -4,7 +4,6 @@ This script automates the process of compressing video files into three differen
 
 ## Features
 
-- **Parallel Compression**: Compresses video files into high, medium, and low quality simultaneously to save time.
 - **Human-Readable Report**: Generates a detailed report with file sizes and compression times in a human-readable format.
 - **Customizable Compression Settings**: Configurable compression presets and CRF values for different quality levels.
 - **Organized Output**: Saves compressed files in separate directories (`high`, `medium`, `low`) and names them appropriately.
